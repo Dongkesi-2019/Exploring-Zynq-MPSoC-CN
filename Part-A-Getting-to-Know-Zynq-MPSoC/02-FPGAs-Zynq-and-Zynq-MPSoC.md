@@ -1,4 +1,4 @@
-# Chapter2 FPGAs, Zynq, and Zynq MPSoC!
+# Chapter 2 FPGAs, Zynq, and Zynq MPSoC!
 
 Zynq MPSoC是Zynq-7000片上系统（SoC）的演变——或简称为“Zynq”——Xilinx发布的第一款SoC。这两种设备都包括处理系统（PS）和可编程逻辑（PL），PL等同于现场可编程门阵列（FPGA）的PL。如图2.1所示，它在高级别比较了三种器件类型，Zynq MPSoC中的PS比Zynq中的PS更大，更复杂。
 

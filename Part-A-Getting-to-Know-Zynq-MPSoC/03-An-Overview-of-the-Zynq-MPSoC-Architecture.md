@@ -1,4 +1,4 @@
-# Chapter 3: An Overview of the Zynq MPSoC Architecture
+# Chapter 3 An Overview of the Zynq MPSoC Architecture
 
 在接下来的章节及其后，我们将探讨Zynq MPSoC的内部工作原理，重点关注它为嵌入式应用程序世界提供的大量功能和资源。我们将特别关注EV设备及其与Zynq MPSoC系列中其他设备的相似之处。到本章结束时，您将对结合形成Zynq MPSoC架构的元素有更深入的了解。您将进一步了解可用的各种处理功能，以便您可以开始在Zynq MPSoC器件中设计自己的嵌入式系统。
 

@@ -1,4 +1,4 @@
-# Chapter 6: The Application Processing Unit
+# Chapter 6 The Application Processing Unit
 应用处理器是一种微处理器单元，主要用于处理嵌入式系统中的主要应用程序代码。它能够控制和连接外设和专用处理器。
 
 在本章中，我们将研究cortex-a53 mpcore处理器在zynq mpsoc设备中的作用。我们详细描述了ARMV8-A体系结构，并探讨了作为应用处理单元（APU）一部分的信号和接口、存储器、中断、处理器扩展和外围设备。最后，我们介绍应用程序处理器虚拟化。

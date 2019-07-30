@@ -1,4 +1,4 @@
-# Platform Management Features
+# Chapter 10 Platform Management Features
 Zynq MPSOC包含几种不同类型的处理单元，它们的电源状态和错误由单个芯片组件管理。此组件称为平台管理单元（PMU）。PMU负责协调来自APU和RPU的平台管理请求。它还能够响应整个系统中发生的错误。此外，PMU是启动Zynq MPSOC的重要元素。
 
 在本章中，我们将涉及Zynq MPSOC平台管理特性的三个主题。如下： 

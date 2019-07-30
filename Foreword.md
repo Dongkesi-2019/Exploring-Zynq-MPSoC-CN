@@ -1,4 +1,4 @@
-# 前言
+# Foreword
 
 2011年，赛灵思推出了Zynq产品系列。这是第一个将ARM处理器系统与可编程逻辑紧密耦合的Xilinx SoC系列。在此期间，我们决定与斯特拉斯克莱德大学以及Bob Stewart教授和Louise Crockett博士合作，出版The Zynq Book，这是对这一创新架构的软件和硬件的全面介绍和教程。
 

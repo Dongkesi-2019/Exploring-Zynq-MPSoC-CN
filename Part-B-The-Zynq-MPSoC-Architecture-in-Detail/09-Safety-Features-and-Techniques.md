@@ -1,4 +1,4 @@
-# Chapter 9: Safety Features & Techniques
+# Chapter 9 Safety Features & Techniques
 Safety是各种嵌入式系统中的重要考虑因素 - 从消费电子产品到航天器，以及介于两者之间的所有系统。但我们对安全的确切含义是什么？Zynq MPSoC有哪些功能和设计方法可以帮助确保安全的系统？我们将在本章中讨论这些主题（以及更多内容）。
 
 ## 9.1  An Introduction to Safety 

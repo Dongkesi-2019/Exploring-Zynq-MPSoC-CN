@@ -1,4 +1,4 @@
-# Chapter 4: Design Tools & Methods for the Zynq MPSoC
+# Chapter 4 Design Tools & Methods for the Zynq MPSoC
 
 在讨论使用Zynq MPSoC进行系统设计之前，介绍支持此过程的设计工具，开发板和支持材料是非常有用的。我们还概述了可用的主要设计流程。本章提供了高级别的介绍，在后面的章节中将对所选主题进行更详细的介绍。
 
